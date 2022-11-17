@@ -1,0 +1,36 @@
+body{
+    background:linear-gradient(#1438F5,#04FC3B 30%);
+}
+h1{
+    color:white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: x-large;
+    font-weight: bold;
+}
+#in{
+    width: 35px;
+    border-style: none;
+    background: none;
+    color: white;
+}
+#qn{
+    color:white;
+    text-align: center;
+    margin-top: 40px;
+    text-emphasis-style: italic;
+}
+button{
+    background-color: #F9EF10;
+    color:#F80B0B;
+    margin: 50px 0 0 60%;
+    border-style: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+#res{
+    color:#D712F8;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 100px;
+}
